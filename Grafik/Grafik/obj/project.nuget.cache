@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "whXGxkhI1I6NzeLD3JIV0q7TTzVx5EZxSM1s0tzF6zXdkhQTr2KZwcc4WJW5M4kmI46xbRtzkuuA/evjZmITZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IVM505\\source\\repos\\Grafik\\Grafik\\Grafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVM505\\.nuget\\packages\\winforms.datavisualization\\1.8.0\\winforms.datavisualization.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
